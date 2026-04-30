@@ -2,7 +2,7 @@
 
 A simple and responsive Weather Forecast application that provides real-time weather updates for any city using a weather API.
 
-🚀 Features
+<h2>🚀 Features</h2>
 🌍 Search weather by city name
 
 🌡️ Displays temperature, humidity, and wind speed
