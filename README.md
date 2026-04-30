@@ -13,7 +13,7 @@ A simple and responsive Weather Forecast application that provides real-time wea
 
 📱 Responsive UI (works on mobile & desktop)
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript / React (if you used React)
 
 API: OpenWeather API (or whichever you used)
